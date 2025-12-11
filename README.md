@@ -3,7 +3,6 @@
 > Estudante de **Desenvolvimento de Sistemas** no CEDUP Hermann Hering.
 > No momento, focando meus estudos em **Full Stack Development**.
 
----
 
 ### Tech Stack
 <div style="display: inline_block">
