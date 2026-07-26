@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Brogni
 
-<!--
-**Gustavo-Brogni/Gustavo-Brogni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites for small businesses in Blumenau, Brazil, and I'm
+heading toward back-end development.
 
-Here are some ideas to get you started:
+Right now I'm a Systems Development student at CEDUP Hermann Hering,
+where I work with SQL, data modeling, UML, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on right now
+
+- The website for **República da Nana**, a furnished room rental
+  business: vanilla HTML, CSS and JavaScript, no frameworks
+- SQL, data modeling and UML at school
+- Next up: Java and Spring Boot
+
+### Tools
+
+HTML · CSS · JavaScript · SQL · MySQL · Git
+
+---
+
+Blumenau, Santa Catarina | Brazil
+[LinkedIn](https://www.linkedin.com/in/gustavo-brogni) · gustavohbrogni@gmail.com
